@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=N\u00FAmero
+comment1.params=N\u00FAmero
+comment1.target=N\u00FAmero(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ N\u00FAmero\r\n
+comment2.params=
+comment2.target=java.lang.String\ StringToInt()
+comment2.text=\r\n\ \u00C9ste\ m\u00E9todo\ transforma\ el\ n\u00FAmero\ String\ en\ Int\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=3

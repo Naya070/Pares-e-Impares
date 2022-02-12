@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Imp_Par
+comment1.params=Num
+comment1.target=Imp_Par(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Imp_Par\r\n
+comment2.params=
+comment2.target=java.lang.String\ Im_Pa()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment3.params=fantasma
+comment3.target=java.lang.String\ Im_Pa(int)
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment4.params=ar
+comment4.target=void\ main(java.lang.String[])
+numComments=5
